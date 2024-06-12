@@ -1,0 +1,1 @@
+java --module-path ../javafx-sdk-22.0.1-win/lib --add-modules=javafx.controls -jar ../out/artifacts/Client_jar/Client.jar
